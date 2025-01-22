@@ -1,0 +1,94 @@
+:root {
+    --purple: #6B46C1;
+    --pink: #D53F8C;
+}
+
+.btn-outline-purple {
+    color: var(--purple);
+    border-color: var(--purple);
+}
+
+.btn-outline-purple:hover {
+    background-color: var(--purple);
+    color: white;
+}
+
+.bg-gradient {
+    background: linear-gradient(135deg, var(--purple) 0%, var(--pink) 100%);
+}
+
+.display-4 {
+    font-weight: 600;
+}
+
+/* Footer Styles */
+footer .btn-outline-light {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+footer .btn-outline-light:hover {
+    background-color: var(--purple);
+    border-color: var(--purple);
+    transform: translateY(-3px);
+}
+
+footer ul li a:hover {
+    color: var(--purple) !important;
+    text-decoration: none;
+}
+
+/* Social Media Icons */
+footer .bi {
+    line-height: 1;
+}
+
+
+.text-purple {
+    color: var(--purple);
+}
+
+.bg-purple {
+    background-color: var(--purple);
+}
+
+.btn-purple {
+    background-color: var(--purple);
+    color: white;
+}
+
+.btn-purple:hover {
+    background-color: #553C9A;
+    color: white;
+}
+
+.hero {
+    background: linear-gradient(135deg, #F3E8FF 0%, #FCE7F3 100%);
+    padding: 100px 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.features i {
+    color: var(--purple);
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 60px 0;
+    }
+}
