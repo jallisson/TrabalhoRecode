@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trabalho-recode.vercel.app/" target="_blank">Link para o site</a>
+  <a href="https://trabalho-recode.vercel.app/">Link para o site</a>
 </p>
 
 ## 🔎 Resumo
