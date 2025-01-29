@@ -3,6 +3,10 @@
   --pink: #d53f8c;
 }
 
+#navbar {
+  height: 10%; 
+}
+
 .btn-outline-purple {
   color: var(--purple);
   border-color: var(--purple);
