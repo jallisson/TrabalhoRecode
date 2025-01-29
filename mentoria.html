@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mentoria - Universo Q</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link href="/css/style.css" rel="stylesheet" />
+  </head>
+
+  <body class="bg-light">
+    <main>
+      <div class="container py-5">
+        <h1 class="mb-4">Encontre seu Mentor</h1>
+
+        <!-- Search -->
+        <div class="card mb-4">
+          <div class="card-body">
+            <div class="row g-2">
+              <div class="col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  placeholder="Buscar por área ou especialidade..."
+                />
+              </div>
+              <div class="col-auto">
+                <button class="btn btn-purple">
+                  <i class="bi bi-search"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Mentors Grid -->
+        <div class="row g-4">
+          <!-- Repeat this card 6 times -->
+          <div class="col-md-6 col-lg-4">
+            <div class="card">
+              <div class="card-body">
+                <div class="d-flex align-items-center mb-3">
+                  <img
+                    src="/images/profissional.png"
+                    class="rounded-circle me-3"
+                    width="64"
+                    height="64"
+                  />
+                  <div>
+                    <h5 class="card-title mb-0">Ana Silva</h5>
+                    <p class="text-muted mb-0">Tech Lead | 8 anos exp.</p>
+                  </div>
+                </div>
+                <p class="card-text">
+                  Especializada em desenvolvimento web e liderança técnica.
+                </p>
+                <div class="d-flex gap-2">
+                  <button class="btn btn-outline-purple">
+                    <i class="bi bi-calendar"></i> Agendar
+                  </button>
+                  <button class="btn btn-outline-secondary">
+                    <i class="bi bi-chat"></i> Mensagem
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Repeat card end -->
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/loadNav.js"></script>
+
+  <script src="/js/loadFooter.js"></script>
+</html>
