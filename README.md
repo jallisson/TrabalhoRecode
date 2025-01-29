@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="Javascript badge"/>
 </p>
 
+<p align="center">
+  <a href="https://trabalho-recode.vercel.app/" target="_blank">Link para o site</a>
+</p>
 
 ## 🔎 Resumo
 Abaixo, você encontra um resumo de como aconteceu o nosso processo de ideação da solução.
