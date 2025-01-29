@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/26462904-b09f-4b3b-97bf-5b1cf2d2a558" alt="Universo Q" width="50%">
+  <img src="https://github.com/user-attachments/assets/7a9d75e2-7bca-43f1-9e2b-b9525633d70e" alt="Universo Q" width="50%">
 </p>
 <br>
 <p align="center">
@@ -19,7 +19,8 @@ Abaixo, você encontra um resumo de como aconteceu o nosso processo de ideação
 
 A comunidade LGBTQIA+ enfrenta desafios significativos no mercado de trabalho,  incluindo discriminação, preconceito e falta de oportunidades. A [Fundo Brasil](https://www.fundobrasil.org.br/blog/as-dificuldades-enfrentadas-pelas-pessoas-lgbtqia/) escreveu um artigo sobre as dificuldades que a comunidadade enfrenta, eles pontuaram uma pesquisa realizada pela [Center for Talent Innovation](https://coqual.org/), que mostra que 61% dos funcionários gays e lésbicas decidem por esconderem sua sexualidade de gestores e colegas em virtude do medo de perderem o emprego.  A Universo Q surge como uma solução inovadora para conectar profissionais LGBTQIA+ a um futuro mais justo e inclusivo, promovendo a igualdade de oportunidades e combatendo a exclusão no ambiente profissional.
 <br><br>
-![unnamed](https://github.com/user-attachments/assets/7e6d25a8-1c2d-4c9d-b4fe-5f478d306cc3)
+![WhatsApp Image 2025-01-29 at 11 23 34](https://github.com/user-attachments/assets/a05bebd1-1d21-40be-b090-6027e9829e65)
+
 
 ### Problema
 
