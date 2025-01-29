@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="Javascript badge"/>
 </p>
 
+
+## 🔎 Resumo
+Abaixo, você encontra um resumo de como aconteceu o nosso processo de ideação da solução.
+<br><br>
+![Captura_de_tela_2025-01-26_182845](https://github.com/user-attachments/assets/9ef0a986-2fe9-4898-ae46-6adf0069d7de)
+
 ## 🧾 Introdução
 
 A comunidade LGBTQIA+ enfrenta desafios significativos no mercado de trabalho,  incluindo discriminação, preconceito e falta de oportunidades. A [Fundo Brasil](https://www.fundobrasil.org.br/blog/as-dificuldades-enfrentadas-pelas-pessoas-lgbtqia/) escreveu um artigo sobre as dificuldades que a comunidadade enfrenta, eles pontuaram uma pesquisa realizada pela [Center for Talent Innovation](https://coqual.org/), que mostra que 61% dos funcionários gays e lésbicas decidem por esconderem sua sexualidade de gestores e colegas em virtude do medo de perderem o emprego.  A Universo Q surge como uma solução inovadora para conectar profissionais LGBTQIA+ a um futuro mais justo e inclusivo, promovendo a igualdade de oportunidades e combatendo a exclusão no ambiente profissional.
@@ -58,6 +64,23 @@ O Universo Q oferece as seguintes funcionalidades para combater esses problemas:
 - **Descobrir vagas de emprego em empresas inclusivas** que valorizam a diversidade e oferecem oportunidades iguais para todes.
 - **Conectar-se com outros profissionais LGBTQIA+** e construir uma rede de apoio para compartilhar experiências, trocar ideias, fazer networking e crescer em conjunto.
 
+## 🗓️ Cronograma 
+
+| Etapa | Descrição | Status | Previsão |
+|---|---|---|---|
+| Pesquisa e ideação | Pesquisa sobre os desafios da comunidade LGBTQIA+ no mercado de trabalho e brainstorming de soluções. | Concluído | 23/01/2024 |
+| Desenvolvimento da solução | Definição das funcionalidades da plataforma, design, desenvolvimento e testes. | Em andamento | Indefinida |
+| Lançamento da plataforma | Divulgação da plataforma para o público-alvo e início das operações. | - | Indefinida |
+| Monitoramento e aprimoramento | Coleta de feedback dos usuários, análise de dados e implementação de melhorias contínuas. | - | Contínuo |
+
+## 📚 Distribuição de atividades
+A equipe, apesar de pequena, demonstrou grande capacidade de organização e colaboração. As tarefas foram divididas, considerando as habilidades de cada integrante. Enquanto um membro se dedicou à pesquisa e levantamento de dados sobre o problema e o público-alvo, outro ficou responsável por traduzir essas informações em um projeto visual e  funcional, além de ficar responsável por criar o banco de dados. Enquanto outro membro se concentrou em elaborar o pitch, com o objetivo de apresentar a ideia de forma clara.
+
+Vale ressaltar que, apesar da divisão de tarefas, a equipe manteve uma comunicação constante e colaborativa.  Cada integrante se dedicou à sua tarefa com responsabilidade, mas também ofereceu apoio aos colegas, compartilhando conhecimentos e trabalhando em conjunto para superar desafios. Essa sinergia e união foram fundamentais para o desenvolvimento do projeto.
+
+## 🛠️ Ferramenta de Gerenciamento de Projeto - Trello
+![Captura de tela 2025-01-29 093530](https://github.com/user-attachments/assets/9cb84f63-5e33-4bfb-af81-00c4289cd448)
+
 ## 📁 Estrutura do Projeto
 
 ```
@@ -84,6 +107,16 @@ git clone https://github.com/seu-usuario/careerconnect.git
 ```
 
 2. Abra o arquivo index.html no navegador
+
+## 🎊 Integrantes 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DaianeFerreira99"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/196366652?v=4" width="100px;" alt=""/><br /><sub><b>Daiane Ferreira</b></sub></a><br /><a href="https://github.com/DaianeFerreira99" title="Metavagas">👨🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/katiene-souza"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85809975?v=4" width="100px;" alt=""/><br /><sub><b>Katiene Souza</b></sub></a><br /><a href="https://github.com/katiene-souza" title="Metavagas">👩🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/jallisson"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43224822?v=4" width="100px;" alt=""/><br /><sub><b>Jallisson Jallis</b></sub></a><br /><a href="https://github.com/jallisson" title="Metavagas">👩🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/Mici581"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/186487437?v=4" width="100px;" alt=""/><br /><sub><b>Francisca Miciane</b></sub></a><br /><a href="https://github.com/Mici581" title="Metavagas">👩🏻‍💻</a></td>
+  </tr>
+</table>
 
 ## 📝 Licença
 
