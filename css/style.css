@@ -1,10 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  margin-top: 70px;
+  @media (min-width: 576px) {
+    margin-top: 150px;
+  }
+  flex-grow: 1;
+}
+
+.logo {
+  width: 200px;
+  @media (min-width: 576px) {
+    width: 500px;
+  }
+}
+
 :root {
   --purple: #6b46c1;
   --pink: #d53f8c;
 }
 
 #navbar {
-  height: 10%; 
+  height: 10%;
 }
 
 .btn-outline-purple {
