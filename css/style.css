@@ -3,8 +3,14 @@
   --pink: #d53f8c;
 }
 
-#navbar {
-  height: 10%; 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  min-height: 100vh;
 }
 
 .btn-outline-purple {
@@ -24,6 +30,7 @@
 .display-4 {
   font-weight: 600;
 }
+
 
 /* Footer Styles */
 footer .btn-outline-light {
