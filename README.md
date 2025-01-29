@@ -113,8 +113,8 @@ git clone https://github.com/seu-usuario/careerconnect.git
 <table>
   <tr>
     <td align="center"><a href="https://github.com/DaianeFerreira99"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/196366652?v=4" width="100px;" alt=""/><br /><sub><b>Daiane Ferreira</b></sub></a><br /><a href="https://github.com/DaianeFerreira99" title="Metavagas">👨🏻‍💻</a></td>
-    <td align="center"><a href="https://github.com/katiene-souza"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85809975?v=4" width="100px;" alt=""/><br /><sub><b>Katiene Souza</b></sub></a><br /><a href="https://github.com/katiene-souza" title="Metavagas">👩🏻‍💻</a></td>
-    <td align="center"><a href="https://github.com/jallisson"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43224822?v=4" width="100px;" alt=""/><br /><sub><b>Jallisson Jallis</b></sub></a><br /><a href="https://github.com/jallisson" title="Metavagas">👩🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/katiene-souza"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85809975?v=4" width="100px;" alt=""/><br /><sub><b>Katiene Souza - Líder</b></sub></a><br /><a href="https://github.com/katiene-souza" title="Metavagas">👩🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/jallisson"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43224822?v=4" width="100px;" alt=""/><br /><sub><b>Jallisson Jallis - Vice Líder</b></sub></a><br /><a href="https://github.com/jallisson" title="Metavagas">👩🏻‍💻</a></td>
     <td align="center"><a href="https://github.com/Mici581"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/186487437?v=4" width="100px;" alt=""/><br /><sub><b>Francisca Miciane</b></sub></a><br /><a href="https://github.com/Mici581" title="Metavagas">👩🏻‍💻</a></td>
   </tr>
 </table>
