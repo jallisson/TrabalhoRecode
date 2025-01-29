@@ -16,128 +16,125 @@
 
     <!-- Conteúdo principal -->
     <main>
-      <div class="container py-5">
-        <!-- Hero Section -->
-        <section class="hero pt-5">
-          <div class="text-center bg-dark bg-opacity-25">
-            <div class="container py-5">
-              <h1 class="display-4 fw-bold mb-4 text-white">
-                Construa Sua Carreira com Confiança
-              </h1>
-              <p class="lead text-white mb-4">
-                Conectamos profissionais LGBTQIA+ com mentores experientes para
-                impulsionar seu desenvolvimento profissional
-              </p>
-              <button
-                class="btn btn-purple btn-lg"
-                data-bs-toggle="modal"
-                data-bs-target="#modalCadastro"
-              >
-                Comece Agora
-              </button>
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="text-center bg-dark bg-opacity-25">
+          <div class="container py-5">
+            <h1 class="display-4 fw-bold mb-4 text-white">
+              Construa Sua Carreira com Confiança
+            </h1>
+            <p class="lead text-white mb-4">
+              Conectamos profissionais LGBTQIA+ com mentores experientes para
+              impulsionar seu desenvolvimento profissional
+            </p>
+            <button
+              class="btn btn-purple btn-lg"
+              data-bs-toggle="modal"
+              data-bs-target="#modalCadastro"
+            >
+              Comece Agora
+            </button>
 
-              <!-- Modal Cadastro -->
-              <div class="modal fade" id="modalCadastro" tabindex="-1">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <h5 class="modal-title">Cadastro</h5>
-                      <button
-                        type="button"
-                        class="btn-close"
-                        data-bs-dismiss="modal"
-                      ></button>
-                    </div>
-                    <div class="modal-body">
-                      <form id="formCadastro">
-                        <div class="mb-3">
-                          <label class="form-label">Nome</label>
-                          <input type="text" class="form-control" required />
-                        </div>
-                        <div class="mb-3">
-                          <label class="form-label">Endereço</label>
-                          <input type="text" class="form-control" required />
-                        </div>
-                        <div class="mb-3">
-                          <label class="form-label">Email</label>
-                          <input type="email" class="form-control" required />
-                        </div>
-                        <div class="mb-3">
-                          <label class="form-label">CPF</label>
-                          <input
-                            type="text"
-                            class="form-control"
-                            id="cpf"
-                            required
-                          />
-                        </div>
-                      </form>
-                    </div>
-                    <div class="modal-footer">
-                      <button
-                        type="button"
-                        class="btn btn-secondary"
-                        data-bs-dismiss="modal"
-                      >
-                        Fechar
-                      </button>
-                      <button
-                        type="submit"
-                        form="formCadastro"
-                        class="btn btn-purple"
-                      >
-                        Cadastrar
-                      </button>
-                    </div>
+            <!-- Modal Cadastro -->
+            <div class="modal fade" id="modalCadastro" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title">Cadastro</h5>
+                    <button
+                      type="button"
+                      class="btn-close"
+                      data-bs-dismiss="modal"
+                    ></button>
+                  </div>
+                  <div class="modal-body">
+                    <form id="formCadastro">
+                      <div class="mb-3">
+                        <label class="form-label">Nome</label>
+                        <input type="text" class="form-control" required />
+                      </div>
+                      <div class="mb-3">
+                        <label class="form-label">Endereço</label>
+                        <input type="text" class="form-control" required />
+                      </div>
+                      <div class="mb-3">
+                        <label class="form-label">Email</label>
+                        <input type="email" class="form-control" required />
+                      </div>
+                      <div class="mb-3">
+                        <label class="form-label">CPF</label>
+                        <input
+                          type="text"
+                          class="form-control"
+                          id="cpf"
+                          required
+                        />
+                      </div>
+                    </form>
+                  </div>
+                  <div class="modal-footer">
+                    <button
+                      type="button"
+                      class="btn btn-secondary"
+                      data-bs-dismiss="modal"
+                    >
+                      Fechar
+                    </button>
+                    <button
+                      type="submit"
+                      form="formCadastro"
+                      class="btn btn-purple"
+                    >
+                      Cadastrar
+                    </button>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </section>
+        </div>
+      </section>
 
-        <!-- Features -->
-        <section class="features py-5">
-          <div class="container">
-            <div class="row g-4">
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <i class="bi bi-people mb-3 text-purple fs-3"></i>
-                    <h3 class="h5 mb-3">Mentoria Personalizada</h3>
-                    <p class="text-muted">
-                      Conecte-se com mentores experientes que entendem sua
-                      jornada
-                    </p>
-                  </div>
+      <!-- Features -->
+      <section class="features py-5">
+        <div class="container">
+          <div class="row g-4">
+            <div class="col-md-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <i class="bi bi-people mb-3 text-purple fs-3"></i>
+                  <h3 class="h5 mb-3">Mentoria Personalizada</h3>
+                  <p class="text-muted">
+                    Conecte-se com mentores experientes que entendem sua jornada
+                  </p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <i class="bi bi-briefcase mb-3 text-purple fs-3"></i>
-                    <h3 class="h5 mb-3">Oportunidades Profissionais</h3>
-                    <p class="text-muted">
-                      Acesse vagas em empresas comprometidas com a diversidade
-                    </p>
-                  </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <i class="bi bi-briefcase mb-3 text-purple fs-3"></i>
+                  <h3 class="h5 mb-3">Oportunidades Profissionais</h3>
+                  <p class="text-muted">
+                    Acesse vagas em empresas comprometidas com a diversidade
+                  </p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <i class="bi bi-book mb-3 text-purple fs-3"></i>
-                    <h3 class="h5 mb-3">Desenvolvimento Contínuo</h3>
-                    <p class="text-muted">
-                      Participe de workshops e treinamentos exclusivos
-                    </p>
-                  </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <i class="bi bi-book mb-3 text-purple fs-3"></i>
+                  <h3 class="h5 mb-3">Desenvolvimento Contínuo</h3>
+                  <p class="text-muted">
+                    Participe de workshops e treinamentos exclusivos
+                  </p>
                 </div>
               </div>
             </div>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
     </main>
     <!-- Fim do conteúdo principal -->
 
