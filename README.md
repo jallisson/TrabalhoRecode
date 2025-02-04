@@ -11,7 +11,27 @@
 
 <p align="center">
   <a href="https://trabalho-recode.vercel.app/" target="_blank" rel="noopener noreferrer">Link para o site</a>
-</p>
+</p> 
+
+# Sumário
+
+1.  [Resumo](#-resumo)
+2.  [Introdução](#-introdução)
+    *   [Problema](#problema)
+    *   [Impacto do Problema](#impacto-do-problema)
+3.  [Público-Alvo](#público-alvo)
+4.  [Funcionalidades](#-funcionalidades)
+5.  [Banco de Dados](#-banco-de-dados)
+    *   [Diagrama Conceitual](#diagrama-conceitual)
+    *   [Diagrama Lógico](#diagrama-lógico)
+    *   [Diagrama Físico](#diagrama-físico)
+6.  [Cronograma](#️-cronograma)
+7.  [Distribuição de Atividades](#-distribuição-de-atividades)
+8.  [Ferramenta de Gerenciamento de Projeto - Trello](#️-ferramenta-de-gerenciamento-de-projeto---trello)
+9.  [Estrutura do Projeto](#-estrutura-do-projeto)
+10. [Instalação](#-instalação)
+11. [Integrantes](#-integrantes)
+12. [Licença](#-licença)
 
 ## 🔎 Resumo
 Abaixo, você encontra um resumo de como aconteceu o nosso processo de ideação da solução.
@@ -44,7 +64,7 @@ A discriminação no mercado de trabalho afeta a comunidade LGBTQIA+ de diversas
 - **Impacto na saúde mental:** A discriminação e o preconceito contribuem para problemas de saúde mental, como depressão, ansiedade e baixa autoestima.
 - **Limitação do crescimento profissional:** As barreiras impostas pela discriminação impedem que profissionais LGBTQIA+ alcancem seu potencial máximo e progridam em suas carreiras.
 
-## 🫂Público-Alvo
+## 🎯Público-Alvo
 
 1. Profissionais LGBTQIA+ maiores de 18 anos em busca de oportunidades de trabalho:
 - **Necessidades:**
@@ -67,6 +87,15 @@ O Universo Q oferece as seguintes funcionalidades para combater esses problemas:
 - **Desenvolver habilidades essenciais** por meio de trocas de experiências, que te prepararão para os desafios do mercado de trabalho.
 - **Descobrir vagas de emprego em empresas inclusivas** que valorizam a diversidade e oferecem oportunidades iguais para todes.
 - **Conectar-se com outros profissionais LGBTQIA+** e construir uma rede de apoio para compartilhar experiências, trocar ideias, fazer networking e crescer em conjunto.
+
+## 📊 Banco de dados
+### Diagrama conceitual
+
+### Diagrama lógico 
+![modelo_logico](https://github.com/user-attachments/assets/2dfa9e65-c9dc-4beb-ac35-42a831355db6)
+### Diagrama físico
+![modelo_fisico](https://github.com/user-attachments/assets/5f7d3e45-16a8-427c-87da-7b7e8b55912f)
+
 
 ## 🗓️ Cronograma 
 
