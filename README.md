@@ -90,7 +90,7 @@ O Universo Q oferece as seguintes funcionalidades para combater esses problemas:
 
 ## 📊 Banco de dados
 ### Diagrama conceitual
-
+![modelo conceitual](database/EntidadeRelacional.jpg)
 ### Diagrama lógico 
 ![modelo_logico](https://github.com/user-attachments/assets/2dfa9e65-c9dc-4beb-ac35-42a831355db6)
 ### Diagrama físico
