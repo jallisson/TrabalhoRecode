@@ -138,6 +138,12 @@ body {
   color: var(--white);
   padding: 8rem 0 4rem;
   text-align: center;
+  --primary: #6B46C1;
+  --secondary: #D53F8C;
+  --background: #F9FAFB;
+  --text: #1F2937;
+  --text-light: #6B7280;
+  --white: #FFFFFF;
 }
 
 .about-hero h1 {
